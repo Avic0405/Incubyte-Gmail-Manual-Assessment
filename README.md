@@ -1,7 +1,7 @@
 # Incubyte – Gmail Compose Manual Testing Assessment
 
 > **Role:** Senior QA Test Craftsperson  
-> **Submitted by:** [Your Name]  
+> **Submitted by:** Avinash chaudhary  
 > **Date:** June 2025  
 > **Platform under test:** Gmail (https://mail.google.com) – Compose Feature
 
